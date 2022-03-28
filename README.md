@@ -1,5 +1,5 @@
 # Description
-"Book List" application, where you can add (book title, author, ISBN). You can still delete the book from the list
+"Book List" application, where you can add (book title, author, ISBN). You can still delete the book from the list.
 The last book added is saved in localStorage 
 # Installation
 First of all install all npm packages with the command:
